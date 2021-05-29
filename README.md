@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on [mathscript](https://github.com/eyx092/mathscript) and [eopDOS](https://github.com/eyx092/eopDOS)
 - 🌱 I’m currently learning Java and C#
 - 📫 How to reach me: Email me at eyx092@gmail.com
 
