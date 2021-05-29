@@ -33,3 +33,4 @@ Here are some ideas to get you started:
 ## Competitive Coding Profiles:
 <p float="left">
   <a href="https://hackerrank.com/eyx092/"><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" width="70">
+</p>
