@@ -30,3 +30,7 @@ Here are some ideas to get you started:
   <a href="https://html.spec.whatwg.org/multipage/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" width="70"/></a>
   <a href="https://www.gnu.org/software/bash/"><img src="https://external-preview.redd.it/V77U-n3OuvNr2I14hRYUcyXBJ1C9dEMV3HUt3dAIViw.png?auto=webp&s=20d05cf394bd203741ddfdffa904af94fdd90544" width="70"/></a>
 </p>
+
+## Competitive Coding Profiles:
+<p float="left">
+  <a href="https://hackerrank.com/eyx092/"><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" width="70">
